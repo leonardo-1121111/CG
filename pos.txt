@@ -1,0 +1,20 @@
+positivas_mao/mao (1).jpg 2 1142 6 695 784 135 1 717 761
+positivas_mao/mao (10).jpg 1 1 1 227 387
+positivas_mao/mao (11).jpg 1 79 2 140 144
+positivas_mao/mao (12).jpg 1 74 35 1103 969
+positivas_mao/mao (13).jpg 2 7 18 171 179 175 23 139 186
+positivas_mao/mao (14).jpg 7 58 128 139 166 100 319 127 184 354 169 117 183 290 47 120 172 523 132 83 198 598 167 109 187 430 309 122 184
+positivas_mao/mao (15).jpg 1 6 10 193 222
+positivas_mao/mao (16).jpg 1 9 10 392 407
+positivas_mao/mao (17).jpg 6 79 60 91 149 181 89 69 128 241 62 82 140 341 124 73 136 442 108 65 140 505 190 71 123
+positivas_mao/mao (18).jpg 1 109 9 335 609
+positivas_mao/mao (19).jpg 1 303 95 504 452
+positivas_mao/mao (2).jpg 1 208 1 412 380
+positivas_mao/mao (20).jpg 1 11 26 164 202
+positivas_mao/mao (3).jpg 2 22 1 237 233 271 51 194 282
+positivas_mao/mao (4).jpg 1 66 39 474 475
+positivas_mao/mao (5).jpg 1 166 92 448 414
+positivas_mao/mao (6).jpg 1 98 8 239 273
+positivas_mao/mao (7).jpg 1 61 85 201 285
+positivas_mao/mao (8).jpg 1 285 81 365 670
+positivas_mao/mao (9).jpg 1 155 58 552 912
